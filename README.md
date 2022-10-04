@@ -1,1 +1,1 @@
-# Data-Retrieval-accross-Multiple-Modalities-using-Deep-Learning
+# Data Retrieval across Multiple Modalities using Deep-Learning
