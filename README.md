@@ -1,4 +1,4 @@
-# Data Retrieval across Multiple Modalities using Deep-Learning
+# Data Retrieval across Multiple Modalities using Deep Learning
 
 
 In this massive information era, where data is constantly being generated, it becomes difficult to sift through gazillion bytes of
